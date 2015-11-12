@@ -1,6 +1,6 @@
 # _Address Book_
 
-##### _Restaurant book app, 9/14/15_
+##### _Address book app, 9/14/15_
 
 #### By _**Jeff Austin**_
 
