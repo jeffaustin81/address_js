@@ -1,6 +1,6 @@
-# _Restaurants_
+# _Address Book_
 
-##### _Restaurant search and post application, 9/14/15_
+##### _Restaurant book app, 9/14/15_
 
 #### By _**Jeff Austin**_
 
